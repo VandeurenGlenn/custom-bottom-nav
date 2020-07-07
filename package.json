@@ -1,0 +1,22 @@
+{
+  "name": "custom-bottom-nav",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "jsproject --serve ./",
+    "build": "rollup -c",
+    "watch": "rollup -c -w"
+  },
+  "description": "jsproject template scaffold",
+  "repository": "https://github.com/vandeurenglenn/custom-bottom-nav",
+  "author": "vandeurenglenn <vandeurenglenn@gmail.com>",
+  "devDependencies": {
+    "rollup": "^2.20.0",
+    "rollup-plugin-terser": "^6.1.0"
+  },
+  "dependencies": {
+    "custom-select-mixins": "^0.13.0"
+  }
+}
