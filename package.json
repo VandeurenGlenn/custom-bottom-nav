@@ -13,7 +13,7 @@
   "repository": "https://github.com/vandeurenglenn/custom-bottom-nav",
   "author": "vandeurenglenn <vandeurenglenn@gmail.com>",
   "devDependencies": {
-    "rollup": "^2.20.0",
+    "rollup": "^3.29.5",
     "rollup-plugin-terser": "^6.1.0"
   },
   "dependencies": {
